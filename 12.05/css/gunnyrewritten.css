@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Gunny Rewritten';
+	src: url('GunnyRewritten.woff2') format('woff2'), url('GunnyRewritten.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+p:first-child{
+		font-family: 'Gunny Rewritten';
+	}
